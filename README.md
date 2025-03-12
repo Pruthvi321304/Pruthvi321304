@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm [Pruthvi] 👋
 
-<!--
-**Pruthvi321304/Pruthvi321304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm a passionate developer  learning **TypeScript, JavaScript, Node.js**, and backend development. 
 
-Here are some ideas to get you started:
+### 💡 Skills
+- 🔹 **Html** 
+- 🔹 **Css** 
+- 🔹 **Javascript** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 What I'm Currently Learning  
+🔹 Typescript and Backend Tools
+
+
+## 📫 Connect with Me  
+🔗 **GitHub:** [Github Profile](https://github.com/Pruthvi321304)<br>
+💼 **LinkedIn:** [Linkedin Profile][https://www.linkedin.com/in/pruthvi-hk-62201b345/]
